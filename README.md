@@ -38,12 +38,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-ARTICLES
-TO BE
-ENQUIRED OF
-Within the Diocesse of
-LONDON.In the third Trienniall Visitation
-Of the R
+
 1. The Oath to be administred to the
 Church-wardens and Sworn-men.
 
