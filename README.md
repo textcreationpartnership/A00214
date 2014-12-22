@@ -38,70 +38,8 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-ARTICLES
-TO BE
-ENQUIRED OF
-Within the Diocesse of
-LONDON.In the third Trienniall Visitation
-Of the R
-1. The Oath to be administred to the
-Church-wardens and Sworn-men.
-
+Articles to be enquired of vvithin the diocesse of London In the third trienniall visitation of the 
 #####Body#####
-
-1. Articles to be enquired of within the Diocesse
-of LONDON, in the Visitation to be holden
-in the Yeare of our LORD, 1640.
-
-    _ Concerning Religion, and the true worship of God▪
-In This Realme established.
-
-    _ Concerning the Church, the Governement, Authoritie,
-and Discipline thereof.
-
-    _ Concerning Churches, the Ornaments, Vtensils, and other
-necessaries to the same belonging.
-
-    _ Concerning the Celebration of Divine Service, the
-Administration of the Sacraments. &c.
-
-    _ Concerning the Clergie, their Duty, Carriage▪ &c.
-
-    _ Concerning Schoolemasters, Parish Clarkes, and Sextens.
-
-    _ Concerning Parishioners.
-
-    _ Concerning Church-Wardens and Sidemen.
-
-    _ Concerning Chancellors, Registers, Proctors, Apparators,
-and other Ecclesiasticall Officers.
-
-1. The Charge of the Church-wardens and
-Sworn men set downe for the better performance
-of their duties, and discharge of their Oaths.
-
-    _ Concerning Religion, and the true worship of God▪
-In This Realme established.
-
-    _ Concerning the Church, the Governement, Authoritie,
-and Discipline thereof.
-
-    _ Concerning Churches, the Ornaments, Vtensils, and other
-necessaries to the same belonging.
-
-    _ Concerning the Celebration of Divine Service, the
-Administration of the Sacraments. &c.
-
-    _ Concerning the Clergie, their Duty, Carriage▪ &c.
-
-    _ Concerning Schoolemasters, Parish Clarkes, and Sextens.
-
-    _ Concerning Parishioners.
-
-    _ Concerning Church-Wardens and Sidemen.
-
-    _ Concerning Chancellors, Registers, Proctors, Apparators,
-and other Ecclesiasticall Officers.
 
 **Types of content**
 
@@ -135,50 +73,44 @@ There are 324 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|7||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|6||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|7||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|6||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__desc__|324||
-|3.|__div__|13| @__type__ (13) : title_page (1), part (3), section (9)|
-|4.|__front__|1||
-|5.|__g__|231| @__ref__ (231) : char:EOLhyphen (169), char:punc (61), char:EOLunhyphen (1)|
-|6.|__gap__|324| @__reason__ (324) : illegible (324)  •  @__resp__ (324) : #TECH (324)  •  @__extent__ (324) : 1 word (18), 1 letter (270), 2 letters (30), 1 span (5), 3 letters (1)|
-|7.|__head__|12||
-|8.|__hi__|55| @__rend__ (1) : sup (1)|
-|9.|__item__|4||
-|10.|__list__|1||
-|11.|__note__|151| @__place__ (151) : margin (151)|
-|12.|__p__|131||
-|13.|__pb__|28| @__facs__ (28) : tcp:1757:1 (2), tcp:1757:2 (2), tcp:1757:3 (2), tcp:1757:4 (2), tcp:1757:5 (2), tcp:1757:6 (2), tcp:1757:7 (2), tcp:1757:8 (2), tcp:1757:9 (2), tcp:1757:10 (2), tcp:1757:11 (2), tcp:1757:12 (2), tcp:1757:13 (2), tcp:1757:14 (2)|
-|14.|__seg__|1| @__rend__ (1) : decorInit (1)|
-|15.|__trailer__|1||
+|1.|__desc__|324||
+|2.|__div__|13| @__type__ (13) : title_page (1), part (3), section (9)|
+|3.|__g__|231| @__ref__ (231) : char:EOLhyphen (169), char:punc (61), char:EOLunhyphen (1)|
+|4.|__gap__|324| @__reason__ (324) : illegible (324)  •  @__resp__ (324) : #TECH (324)  •  @__extent__ (324) : 1 word (18), 1 letter (270), 2 letters (30), 1 span (5), 3 letters (1)|
+|5.|__head__|12||
+|6.|__hi__|55| @__rend__ (1) : sup (1)|
+|7.|__item__|4||
+|8.|__list__|1||
+|9.|__note__|151| @__place__ (151) : margin (151)|
+|10.|__p__|131||
+|11.|__pb__|28| @__facs__ (28) : tcp:1757:1 (2), tcp:1757:2 (2), tcp:1757:3 (2), tcp:1757:4 (2), tcp:1757:5 (2), tcp:1757:6 (2), tcp:1757:7 (2), tcp:1757:8 (2), tcp:1757:9 (2), tcp:1757:10 (2), tcp:1757:11 (2), tcp:1757:12 (2), tcp:1757:13 (2), tcp:1757:14 (2)|
+|12.|__seg__|1| @__rend__ (1) : decorInit (1)|
+|13.|__trailer__|1||
