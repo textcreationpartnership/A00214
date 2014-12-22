@@ -38,8 +38,47 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be enquired of vvithin the diocesse of London In the third trienniall visitation of the 
+ARTICLES
+TO BE
+ENQUIRED OF
+Within the Diocesse of
+LONDON.In the third Trienniall Visitation
+Of the R
+1. The Oath to be administred to the
+Church-wardens and Sworn-men.
+
 #####Body#####
+
+1. Articles to be enquired of within the Diocesse
+of LONDON, in the Visitation to be holden
+in the Yeare of our LORD, 1640.
+
+    _ Concerning Religion, and the true worship of God▪
+In This Realme established.
+
+    _ Concerning the Church, the Governement, Authoritie,
+and Discipline thereof.
+
+    _ Concerning Churches, the Ornaments, Vtensils, and other
+necessaries to the same belonging.
+
+    _ Concerning the Celebration of Divine Service, the
+Administration of the Sacraments. &c.
+
+    _ Concerning the Clergie, their Duty, Carriage▪ &c.
+
+    _ Concerning Schoolemasters, Parish Clarkes, and Sextens.
+
+    _ Concerning Parishioners.
+
+    _ Concerning Church-Wardens and Sidemen.
+
+    _ Concerning Chancellors, Registers, Proctors, Apparators,
+and other Ecclesiasticall Officers.
+
+1. The Charge of the Church-wardens and
+Sworn men set downe for the better performance
+of their duties, and discharge of their Oaths.
 
 **Types of content**
 
